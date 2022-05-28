@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <romanian>
+        <!--LogIn-->
+        <labelSpec>              Spectatori </labelSpec>
+        <labelPass>    PASIUNI </labelPass>
+        <labelSince>                 STUDIO DE FILM DIN 2001</labelSince>
+        <usernameLabel>Utilizator</usernameLabel>
+        <passwordLabel> Parolă</passwordLabel>
+        <buttonLogin>Logare</buttonLogin>
+        <enterUsername>Introduceti numele de utilizator!</enterUsername>
+        <enterPassword>Introdu parola!</enterPassword>
+        <tryAgain>Nu există! Date incorecte! Încearcă din nou!</tryAgain>
+        <!--User-->
+        <logOutButton>Ieșire</logOutButton>
+        <titleLabel>Titlu</titleLabel>
+        <categoryLabel>Categorie</categoryLabel>
+        <yearLabel>An</yearLabel>
+        <checkArtisitc>Artistic</checkArtisitc>
+        <checkSerial>Serial</checkSerial>
+        <buttonFilter>Filtrare</buttonFilter>
+        <buttonSeacrh>Căutare</buttonSeacrh>
+        <buttonAdaugare>Adăugare</buttonAdaugare>
+        <buttonStergere>Stergere</buttonStergere>
+        <buttonActualizare>Actualizare</buttonActualizare>
+        <buttonSalvare>Salvare</buttonSalvare>
+        <buttonShow>Vizualizare</buttonShow>
+        <buttonStatistici>Statistici</buttonStatistici>
+        <buttonSelect>Selectează</buttonSelect>
+        <labelMovies>  Filme</labelMovies>
+        <labelProduced>     -Produs-</labelProduced>
+        <labelType>Tip</labelType>
+
+        <!--Admin-->
+        <logOutButton1>Ieșire</logOutButton1>
+        <firstName>  Prenume</firstName>
+        <lastName>  Nume</lastName>
+        <usernameLabel1>  Utilizator</usernameLabel1>
+        <checkAdmin>Administrator</checkAdmin>
+        <checkEmployee>Angajat</checkEmployee>
+        <labelBest>                   -Cel mai bun-</labelBest>
+        <labelUser>        UTILIZATORI</labelUser>
+        <passwordLabel1>  Parolă</passwordLabel1>
+        <tableFirst>Prenume</tableFirst>
+        <tableNume>Nume</tableNume>
+        <tableUsername>Utilizator</tableUsername>
+        <tableParola>Parolă</tableParola>
+        <tableRol>Rol</tableRol>
+
+
+
+        <nbMovies>Nr.filme</nbMovies>
+        <movieType>Film după tip</movieType>
+        <movieCategory>Film după categorie</movieCategory>
+
+
+        <!--Etichete-->
+        <notExist>Nu există!</notExist>
+        <selectCri>Selecteză un criteriu!</selectCri>
+        <nothingUpdate>Nimic de actualizat!Completează un câmp!</nothingUpdate>
+        <notUsername>Numele de utilizator nu poate fi actualizat</notUsername>
+        <selectUser>Selectează un utilizator!</selectUser>
+        <selectType>Selectează un tip pentru utilizator!</selectType>
+        <completeAll>Completează toate câmpurile!</completeAll>
+        <userExist>Utilizatorul există</userExist>
+        <deleteUser>Vreți sa stergeți?</deleteUser>
+        <selectMovie>Selectează un film!</selectMovie>
+        <invalidYear>Intrare nevalidă pentru un an!</invalidYear>
+        <movieExist>Filmul există</movieExist>
+        <selectTypeM>Selectați un tip pentru film!</selectTypeM>
+        <typeCant>Tipul nu poate fi schimbat!</typeCant>
+        <titleCant>Titlul nu poate fi schimbat!</titleCant>
+        <nothingMovie>Nimic de actualizat pentru acel film!Completează an sau categorie!</nothingMovie>
+        <insertTitle>Introduceți titlu!</insertTitle>
+        <chooseOp>Alege o opțiune</chooseOp>
+        <radial>Radială</radial>
+        <ring>Inelară</ring>
+        <column>Coloană</column>
+        <page>Pagină</page>
+    </romanian>
+
+    <english>
+        <!--LogIn-->
+        <usernameLabel>Username</usernameLabel>
+        <passwordLabel>Password</passwordLabel>
+        <buttonLogin>LogIn</buttonLogin>
+        <labelSpec>             Spectators</labelSpec>
+        <labelPass>  PASSIONS </labelPass>
+        <labelSince>                  FILM STUDIO SINCE 2001</labelSince>
+        <enterUsername>Enter username!</enterUsername>
+        <enterPassword>Enter password!</enterPassword>
+        <tryAgain>Doesn't exists! Incorrect data! Try again!</tryAgain>
+
+        <!--User-->
+        <logOutButton>LogOut</logOutButton>
+        <titleLabel>Title</titleLabel>
+        <categoryLabel>Category</categoryLabel>
+        <yearLabel>Year</yearLabel>
+        <checkArtisitc>Artistic</checkArtisitc>
+        <checkSerial>Serial</checkSerial>
+        <buttonFilter>Filter</buttonFilter>
+        <buttonSeacrh>Search</buttonSeacrh>
+        <buttonAdaugare>Add</buttonAdaugare>
+        <buttonStergere>Delete</buttonStergere>
+        <buttonActualizare>Update</buttonActualizare>
+        <buttonSalvare>Save</buttonSalvare>
+        <buttonShow>Show</buttonShow>
+        <buttonStatistici>Statistic</buttonStatistici>
+        <labelMovies>MOVIES</labelMovies>
+        <labelProduced>     -Produced-</labelProduced>
+        <labelType>Type</labelType>
+
+        <!--Admin-->
+        <logOutButton1>LogOut</logOutButton1>
+        <firstName>  Fist Name</firstName>
+        <lastName>  Last Name</lastName>
+        <checkAdmin>Admin</checkAdmin>
+        <checkEmployee>Employee</checkEmployee>
+        <labelBest>                           -The best-</labelBest>
+        <labelUser>                 USERS</labelUser>
+        <usernameLabel1>  Username</usernameLabel1>
+        <passwordLabel1>  Password</passwordLabel1>
+        <tableFirst>First Name</tableFirst>
+        <tableNume>Last Name</tableNume>
+        <tableUsername>Username</tableUsername>
+        <tableParola>Password</tableParola>
+        <tableRol>Role</tableRol>
+        <buttonSelect>Select</buttonSelect>
+        <nbMovies>Nb. movies</nbMovies>
+        <movieType>Movie by type</movieType>
+        <movieCategory>Movie by category</movieCategory>
+
+        <!--Etichete-->
+        <notExist>Doesn't exists!</notExist>
+<selectCri>Select a criterion!</selectCri>
+        <nothingUpdate>Nothing to update !Complete a field!</nothingUpdate>
+
+    <notUsername>Username can't be updated!</notUsername>
+        <selectUser>Select a user!</selectUser>
+        <selectType>Select a type for user!</selectType>
+        <completeAll>Complet all fields!</completeAll>
+        <userExist>This username exist!</userExist>
+        <deleteUser>Do you want to delete?</deleteUser>
+        <selectMovie>Select a movie!</selectMovie>
+        <invalidYear>Invalid input for year!</invalidYear>
+        <movieExist>Movie exists</movieExist>
+        <selectTypeM>Select a type for movie!</selectTypeM>
+        <typeCant>Type can't be change!</typeCant>
+        <titleCant>Title can't be change</titleCant>
+        <nothingMovie>Nothing to update for that movie! Fill in year or category!</nothingMovie>
+        <insertTitle>Insert title!</insertTitle>
+        <chooseOp>Choose an option</chooseOp>
+        <page>Page</page>
+        <radial>Radial</radial>
+        <ring>Ring</ring>
+        <column>Column</column>
+    </english>
+    <spanish>
+        <!--LogIn-->
+
+        <usernameLabel> Usuario</usernameLabel>
+        <passwordLabel>  Clave</passwordLabel>
+        <buttonLogin>Accesso</buttonLogin>
+        <labelSpec>               Público </labelSpec>
+        <labelPass>  PASIONES </labelPass>
+        <labelSince>                ESTUDIO DE CINE DESDE 2001</labelSince>
+        <enterUsername>¡Introduzca su nombre de usuario!</enterUsername>
+        <enterPassword>¡Introducir la contraseña!</enterPassword>
+        <tryAgain>¡No existe! ¡Datos Incorrectos! ¡Intentar otra vez!</tryAgain>
+
+
+        <!--User-->
+        <logOutButton>Cerrar sesión</logOutButton>
+        <titleLabel>Título</titleLabel>
+        <categoryLabel>Categoría</categoryLabel>
+        <yearLabel>Año</yearLabel>
+        <checkArtisitc>Artístico</checkArtisitc>
+        <checkSerial>Seriado</checkSerial>
+        <buttonFilter>Filtrar</buttonFilter>
+        <buttonSeacrh>Búsqueda</buttonSeacrh>
+        <buttonAdaugare>Agregar</buttonAdaugare>
+        <buttonStergere>Borrar</buttonStergere>
+        <buttonActualizare>Actualizar</buttonActualizare>
+        <buttonSalvare>Guardar</buttonSalvare>
+        <buttonShow>Mostrar</buttonShow>
+        <buttonStatistici>Estadística</buttonStatistici>
+        <labelType>Tipo</labelType>
+        <!--Admin-->
+        <logOutButton1>Cerrar sesión</logOutButton1>
+        <firstName>  Primer Nombre</firstName>
+        <lastName>  Appellido</lastName>
+        <checkAdmin>Administración</checkAdmin>
+        <checkEmployee>Empleado</checkEmployee>
+        <labelBest>                    -La mejor-</labelBest>
+        <labelUser>         USUARIOS</labelUser>
+        <usernameLabel1>  Usuario</usernameLabel1>
+        <passwordLabel1>  Clave</passwordLabel1>
+        <tableFirst>Primer Nombre</tableFirst>
+        <tableNume>Appellido</tableNume>
+        <tableUsername>Usuario</tableUsername>
+        <tableParola>Clave</tableParola>
+        <tableRol>Rol</tableRol>
+        <buttonSelect>Seleccione</buttonSelect>
+        <labelMovies>PELÍCULAS</labelMovies>
+        <labelProduced>      -Producido-</labelProduced>
+        <nbMovies>Número de películas</nbMovies>
+        <movieType>Película por tipo</movieType>
+        <movieCategory>Película por categoria</movieCategory>
+
+        <!--Etichete-->
+        <notExist>No existe!</notExist>
+        <selectCri>Seleccione un criterio!</selectCri>
+        <nothingUpdate>¡Nada que actualizar! ¡Completa un campo!</nothingUpdate>
+        <notUsername>El nombre de usuario no se puede actualizar!</notUsername>
+        <selectUser>Selecciona un usuario!</selectUser>
+        <selectType>¡Seleccione un tipo para el usuario!</selectType>
+        <completeAll>¡Complete todos los campos!</completeAll>
+        <userExist>¡Este nombre de usuario existe!</userExist>
+        <deleteUser>¿Quieres borrar?</deleteUser>
+        <selectMovie>¡Selecciona una película!!</selectMovie>
+        <invalidYear>¡Entrada no válida para el año!</invalidYear>
+        <movieExist>¡La película existe!</movieExist>
+        <selectTypeM>¡Seleccione un tipo de película!</selectTypeM>
+        <typeCant>¡El tipo no se puede cambiar!</typeCant>
+        <titleCant>¡El título no se puede cambiar!</titleCant>
+        <nothingMovie>¡Nada que actualizar para esa película! ¡Complete el año o la categoría!</nothingMovie>
+        <insertTitle>¡Insertar título!</insertTitle>
+        <chooseOp>Elige una opcion</chooseOp>
+        <page>Página</page>
+        <radial>Radial</radial>
+        <ring>Anillo</ring>
+        <column>Columna</column>
+    </spanish>
+</language>
