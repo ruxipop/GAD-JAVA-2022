@@ -1,0 +1,1 @@
+Ca si design pattern-uri am folosit Singleton pentru conectarea la baza de date, Observer-ul pentru a se actualiza automat limba de descriere a aplicatiei cand se apasa butonul si Builder-ul pentru a separa constructia unui obiect de tip Movie,User de reprezentarea sa.
